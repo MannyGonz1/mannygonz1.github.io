@@ -16,4 +16,7 @@ section
   float: right;
   text-align: center;
 }
-  
+img
+{
+  border-radius: 25%
+}
