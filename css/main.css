@@ -1,6 +1,6 @@
 body
 {
-  background-color: rgb(210,180,140);
+  background-color: tan;
 }
 h1
 {
@@ -9,4 +9,5 @@ h1
 ul
 {
   font-size: 18pt;
+  font-style: oblique;
 }
