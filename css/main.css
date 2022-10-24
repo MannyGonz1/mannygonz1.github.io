@@ -1,1 +1,12 @@
-
+body
+{
+  background-color:navy blue;
+}
+h1
+{
+  text-decoration-line: underline;
+}
+ul
+{
+  font-size: 18pt;
+}
