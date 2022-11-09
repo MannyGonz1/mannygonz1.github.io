@@ -5,9 +5,18 @@ body
 h1
 {
   text-decoration-line: underline;
+  text-align: center;
 }
 ul
 {
   font-size: 18pt;
   font-style: oblique;
+}
+section h2
+{
+  font-size: 28pt;
+}
+nav
+{
+  color: aqua;
 }
